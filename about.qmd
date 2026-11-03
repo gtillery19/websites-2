@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Greta Tillery**, and I am a student at *New College of Florida*. I am taking [Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info).
